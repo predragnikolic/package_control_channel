@@ -116,7 +116,7 @@
 		{
 			"name": "Icons - Catppuccin",
 			"details": "https://github.com/predragnikolic/catppuccin-sublime-icons",
-			"labels": ["icons"],
+			"labels": ["icons", "file icon theme"],
 			"releases": [
 				{
 					"sublime_text": ">=4206",
